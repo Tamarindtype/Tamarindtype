@@ -5,7 +5,7 @@
       <b>
         Welcome!
         <br />
-        I'm Vi, a Graphic Designer.
+        I'm Ade Lutfi, a Graphic Designer.
       </b>
     </samp>
   </p>
